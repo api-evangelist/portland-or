@@ -1,0 +1,50 @@
+{
+    "name": "Portland, OR",
+    "description": "Leveraging creative capacity and civic engagement with open data; empowering citizens to succeed in addressing needs of the community.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-28-pm.png",
+    "tags": [
+        "city government",
+        "have api",
+        "portland",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/portland-or\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Portland, OR",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-28-pm.png",
+            "humanURL": "http:\/\/www.civicapps.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/portland-or-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/portland-or-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/civicapp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CivicApps"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.civicapps.org"
+        }
+    ]
+}
